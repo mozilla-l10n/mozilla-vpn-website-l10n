@@ -28,6 +28,8 @@ vpn-site-title =
 
 home = Página inicial
 sign-out = Sair
+user-avatar =
+    .aria-label = Abrir menu de opções da conta
 signed-in-as = Conectado como: <user>{ $user }</user>
 manage-account = Gerenciar conta
 manage-subscription = Gerenciar assinatura
@@ -70,15 +72,22 @@ download-unsupported-country = Você só pode baixar o { -vpn-product-name } em 
 ## Client Auth Pages
 
 auth-page-title =
-    .title = Volte para o aplicativo { -vpn-product-name }
+    .title = Volte ao aplicativo { -vpn-product-name }
 auth-success-return-to-app = Volte ao aplicativo { -vpn-product-name } para concluir a configuração.
 auth-success-return-to-app-mobile = Redirecionando você de volta ao aplicativo { -vpn-product-name }…
 auth-success-return-to-app-mobile-button = Clique no botão abaixo para concluir a configuração.
 auth-success-linked-to-app = Acesso bem-sucedido!
+auth-success-return-to-app-button = Voltar ao { -vpn-product-name }
 auth-error-return-to-app = Volte ao aplicativo { -vpn-product-name } e tente novamente.
 auth-error-return-to-app-mobile = Redirecionando você de volta ao aplicativo { -vpn-product-name } para tentar novamente…
 auth-error-deprecated = <update>Atualize</update> para a versão mais recente do { -vpn-product-name }.
 auth-error-unsupported-version = Detectada versão não suportada.
+auth-error-unable-to-link = Ops, algo deu errado.
 
 ## Error Page
 
+vpn-error-page-title =
+    .title = Erro: { -vpn-product-name }
+error = Erro
+page-not-found = Página não encontrada.
+something-went-wrong = Ops, algo deu errado.
