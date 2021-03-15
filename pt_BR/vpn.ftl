@@ -62,9 +62,23 @@ download-vpn-title = Baixar o { -vpn-product-name }
 download-vpn-description = Você pode instalar a VPN em até 5 dispositivos com uma assinatura.
 download-windows-button = Baixar
 download-ios-button = Instalar a partir da App Store
+download-android-button = Instalar a partir do Google Play
+download-mac-button = Baixar
+download-linux-button = Baixar
+download-unsupported-country = Você só pode baixar o { -vpn-product-name } em países aprovados
 
 ## Client Auth Pages
 
+auth-page-title =
+    .title = Volte para o aplicativo { -vpn-product-name }
+auth-success-return-to-app = Volte ao aplicativo { -vpn-product-name } para concluir a configuração.
+auth-success-return-to-app-mobile = Redirecionando você de volta ao aplicativo { -vpn-product-name }…
+auth-success-return-to-app-mobile-button = Clique no botão abaixo para concluir a configuração.
+auth-success-linked-to-app = Acesso bem-sucedido!
+auth-error-return-to-app = Volte ao aplicativo { -vpn-product-name } e tente novamente.
+auth-error-return-to-app-mobile = Redirecionando você de volta ao aplicativo { -vpn-product-name } para tentar novamente…
+auth-error-deprecated = <update>Atualize</update> para a versão mais recente do { -vpn-product-name }.
+auth-error-unsupported-version = Detectada versão não suportada.
 
 ## Error Page
 
