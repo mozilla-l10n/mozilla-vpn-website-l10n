@@ -1,0 +1,70 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Mozilla VPN Brand
+##
+## Mozilla VPN must be treated as a brand.
+##
+## It cannot be:
+## - Transliterated.
+## - Translated.
+##
+## Declension should be avoided where possible, leaving the original
+## brand unaltered in prominent UI positions.
+##
+## For further details, consult:
+## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
+
+
+### Mozilla VPN website
+
+-vpn-product-name = Mozilla VPN
+vpn-site-title =
+    .aria-label = Página inicial do { -vpn-product-name }
+
+## Site Header
+
+home = Página inicial
+sign-out = Sair
+signed-in-as = Conectado como: <user>{ $user }</user>
+manage-account = Gerenciar conta
+manage-subscription = Gerenciar assinatura
+contact-us = Entre em contato conosco
+help-and-support = Ajuda e suporte
+menu = Menu
+
+## Site Footer
+
+footer-privacy = Privacidade
+footer-terms = Termos e condições
+footer-cookies = Cookies
+footer-legal = Jurídico
+
+## VPN Download Page
+
+download-for-windows = VPN para Windows 10
+download-for-windows-details = Windows 10 (apenas 64 bits)
+download-for-android = VPN para Android
+download-for-android-details = Versão 6 em diante
+download-for-ios = VPN para iOS
+download-for-ios-details = Versão 13.0 em diante
+download-for-mac = VPN para Mac
+download-for-mac-details = Versão 10.15 em diante
+download-for-linux = VPN para Linux
+download-for-linux-details = Ubuntu
+available = DISPONÍVEL
+coming-soon = Em breve
+download-page-title =
+    .title = Baixar: { -vpn-product-name }
+download-vpn-title = Baixar o { -vpn-product-name }
+download-vpn-description = Você pode instalar a VPN em até 5 dispositivos com uma assinatura.
+download-windows-button = Baixar
+download-ios-button = Instalar a partir da App Store
+
+## Client Auth Pages
+
+
+## Error Page
+
