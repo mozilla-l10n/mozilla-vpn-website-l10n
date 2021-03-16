@@ -21,10 +21,15 @@
 ### Mozilla VPN website
 
 -vpn-product-name = Mozilla VPN
+vpn-site-title =
+    .aria-label = { -vpn-product-name }-startside
 
 ## Site Header
 
+home = Startside
 sign-out = Ofmelde
+user-avatar =
+    .aria-label = Accountnavigaasje iepenje
 signed-in-as = Oanmeld as: <user>{ $user }</user>
 manage-account = Account beheare
 manage-subscription = Abonnemint beheare
@@ -56,9 +61,11 @@ coming-soon = Ynkoarten beskikber
 download-page-title =
     .title = Download: { -vpn-product-name }
 download-vpn-title = { -vpn-product-name } downloade
+download-vpn-description = Jo kinne de VPN op maksimaal 5 apparaten downloade mei ien abonnemint.
 download-windows-button = Downloade
 download-mac-button = Downloade
 download-linux-button = Downloade
+download-unsupported-country = Jo kinne { -vpn-product-name } allinnich út goedkarre lannen downloade
 
 ## Client Auth Pages
 
