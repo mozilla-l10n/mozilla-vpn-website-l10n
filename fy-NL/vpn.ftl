@@ -69,6 +69,18 @@ download-unsupported-country = Jo kinne { -vpn-product-name } allinnich út goed
 
 ## Client Auth Pages
 
+auth-page-title =
+    .title = Gean werom nei de { -vpn-product-name }-app
+auth-success-return-to-app = Gean werom nei de { -vpn-product-name }-app om de ynstallaasje te foltôgjen.
+auth-success-return-to-app-mobile = Jo wurde nei de { -vpn-product-name }-app weromstjoerd…
+auth-success-return-to-app-mobile-button = Klik op de ûndersteande knop om de ynstallaasje te foltôgjen.
+auth-success-linked-to-app = Mei sukses oanmeld!
+auth-success-return-to-app-button = Werom nei { -vpn-product-name }
+auth-error-return-to-app = Gean werom nei de { -vpn-product-name }-app en probearje it opnij.
+auth-error-return-to-app-mobile = Jo wurde nei de { -vpn-product-name }-app weromstjoerd om it opnij te probearjen…
+auth-error-deprecated = <update>Fernij</update> nei de lêste ferzje fan { -vpn-product-name }.
+auth-error-unsupported-version = Net-stipe ferzje detektearre.
+auth-error-unable-to-link = Oeps, der is wat misgien.
 
 ## Error Page
 
