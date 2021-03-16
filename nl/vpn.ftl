@@ -77,6 +77,13 @@ auth-success-linked-to-app = Met succes aangemeld!
 auth-success-return-to-app-button = Terug naar { -vpn-product-name }
 auth-error-return-to-app = Ga terug naar de { -vpn-product-name }-app en probeer het opnieuw.
 auth-error-return-to-app-mobile = U wordt naar de { -vpn-product-name }-app teruggestuurd om het opnieuw te proberen…
+auth-error-unsupported-version = Niet-ondersteunde versie gedetecteerd.
+auth-error-unable-to-link = Oeps, er is iets misgegaan.
 
 ## Error Page
 
+vpn-error-page-title =
+    .title = Fout: { -vpn-product-name }
+error = Fout
+page-not-found = Pagina niet gevonden.
+something-went-wrong = Oeps, er is iets misgegaan.
