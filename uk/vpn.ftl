@@ -86,3 +86,8 @@ auth-error-unable-to-link = Халепа! Щось пішло не так.
 
 ## Error Page
 
+vpn-error-page-title =
+    .title = Помилка: { -vpn-product-name }
+error = Помилка
+page-not-found = Сторінку не знайдено.
+something-went-wrong = Отакої, щось пішло не так!
