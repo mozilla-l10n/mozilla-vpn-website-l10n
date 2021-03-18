@@ -28,6 +28,8 @@ vpn-site-title =
 
 home = Αρχική
 sign-out = Αποσύνδεση
+user-avatar =
+    .aria-label = Άνοιγμα πλοήγησης λογαριασμού
 signed-in-as = Έγινε σύνδεση ως: <user>{ $user }</user>
 manage-account = Διαχείριση λογαριασμού
 manage-subscription = Διαχείριση συνδρομής
@@ -47,8 +49,11 @@ footer-legal = Νομικά
 download-for-windows = VPN για Windows 10
 download-for-windows-details = Windows 10 (μόνο 64-bit)
 download-for-android = VPN για Android
+download-for-android-details = Έκδοση 6 και νεότερες
 download-for-ios = VPN για iOS
+download-for-ios-details = Έκδοση 13.0 και νεότερες
 download-for-mac = VPN για Mac
+download-for-mac-details = Έκδοση 10.15 και νεότερες
 download-for-linux = VPN για Linux
 download-for-linux-details = Ubuntu
 available = ΔΙΑΘΕΣΙΜΟ
@@ -56,13 +61,19 @@ coming-soon = Έρχεται σύντομα
 download-page-title =
     .title = Λήψη: { -vpn-product-name }
 download-vpn-title = Λήψη του { -vpn-product-name }
+download-vpn-description = Μπορείτε να κάνετε λήψη του VPN σε έως και 5 συσκευές με μία συνδρομή.
 download-windows-button = Λήψη
+download-ios-button = Λήψη στο App Store
+download-android-button = Λήψη στο Google Play Store
 download-mac-button = Λήψη
 download-linux-button = Λήψη
 download-unsupported-country = Μπορείτε να κάνετε λήψη του { -vpn-product-name } μόνο από εγκεκριμένες χώρες
 
 ## Client Auth Pages
 
+auth-page-title =
+    .title = Παρακαλούμε επιστρέψτε στην εφαρμογή { -vpn-product-name }
+auth-success-return-to-app = Παρακαλούμε επιστρέψτε στην εφαρμογή { -vpn-product-name } για να ολοκληρώσετε τη ρύθμιση.
 auth-success-linked-to-app = Επιτυχής σύνδεση!
 auth-success-return-to-app-button = Επιστροφή στο { -vpn-product-name }
 auth-error-unsupported-version = Εντοπίστηκε μη υποστηριζόμενη έκδοση.
