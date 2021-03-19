@@ -71,6 +71,16 @@ download-unsupported-country = Pudete scaricà { -vpn-product-name } solu da cer
 
 ## Client Auth Pages
 
+auth-page-title =
+    .title = Ci vole à rivene à l’appiecazione { -vpn-product-name }
+auth-success-return-to-app = Ci vole à rivene à l’appiecazione { -vpn-product-name } per compie a cunfigurazione.
+auth-success-return-to-app-mobile = Ritornu à l’appiecazione { -vpn-product-name }…
+auth-success-return-to-app-mobile-button = Ci vole à cliccà nant’à u buttone quaghjò per compie a cunfigurazione.
+auth-success-linked-to-app = Cunnessione riesciuta.
+auth-success-return-to-app-button = Ritornu à { -vpn-product-name }
+auth-error-return-to-app = Ci vole à rivene à l’appiecazione { -vpn-product-name } è pruvà torna.
+auth-error-return-to-app-mobile = Ritornu à l’appiecazione { -vpn-product-name } per pruvà torna…
+auth-error-deprecated = Ci vole à <update>installà l’ultima versione</update> di { -vpn-product-name }.
 
 ## Error Page
 
