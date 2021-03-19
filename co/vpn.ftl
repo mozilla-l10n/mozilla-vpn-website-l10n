@@ -21,10 +21,13 @@
 ### Mozilla VPN website
 
 -vpn-product-name = Mozilla VPN
+vpn-site-title =
+    .aria-label = Pagina d’accolta { -vpn-product-name }
 
 ## Site Header
 
 home = Accolta
+sign-out = Scunnettassi
 
 ## Site Footer
 
