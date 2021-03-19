@@ -74,13 +74,13 @@ download-unsupported-country = Solo podés descargar { -vpn-product-name } en lo
 auth-page-title =
     .title = Volver a la aplicación { -vpn-product-name }
 auth-success-return-to-app = Volver a la aplicación { -vpn-product-name } para completar la configuración.
-auth-success-return-to-app-mobile = Redirigiéndote a la aplicación { -vpn-product-name }...
+auth-success-return-to-app-mobile = Redirigiéndote a la aplicación { -vpn-product-name }…
 auth-success-return-to-app-mobile-button = Hacer clic en el botón de abajo para completar la configuración.
 auth-success-linked-to-app = ¡Inicio de sesión exitoso!
 auth-success-return-to-app-button = Volver a { -vpn-product-name }
 auth-error-return-to-app = Volver a la aplicación { -vpn-product-name } y volver a intentar.
-auth-error-return-to-app-mobile = Redirigiéndote a la aplicación { -vpn-product-name } para volver a intentarlo...
-auth-error-deprecated = <update> actualizar </update> a la última versión de { -vpn-product-name }.
+auth-error-return-to-app-mobile = Redirigiéndote a la aplicación { -vpn-product-name } para volver a intentarlo…
+auth-error-deprecated = <update>Actualizar </update> a la última versión de { -vpn-product-name }.
 auth-error-unsupported-version = Se detectó una versión no compatible.
 auth-error-unable-to-link = Algo salió mal.
 
