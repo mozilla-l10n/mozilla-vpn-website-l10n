@@ -22,7 +22,7 @@
 
 -vpn-product-name = Mozilla VPN
 vpn-site-title =
-    .aria-label = Pagina d’accolta { -vpn-product-name }
+    .aria-label = Pagina d’accolta di { -vpn-product-name }
 
 ## Site Header
 
