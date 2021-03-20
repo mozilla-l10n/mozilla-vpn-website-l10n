@@ -63,11 +63,31 @@ download-page-title =
 download-vpn-title = Hämta { -vpn-product-name }
 download-vpn-description = Du kan ladda ner VPN på upp till 5 enheter med en prenumeration.
 download-windows-button = Hämta
-download-ios-button = Hämta i App Store
+download-ios-button = Hämta från App Store
 download-android-button = Hämta den från Google Play
+download-mac-button = Hämta
+download-linux-button = Hämta
+download-unsupported-country = Du kan bara ladda ner { -vpn-product-name } från godkända länder
 
 ## Client Auth Pages
 
+auth-page-title =
+    .title = Vänligen gå tillbaka till appen { -vpn-product-name }
+auth-success-return-to-app = Vänligen gå tillbaka till appen { -vpn-product-name } för att slutföra installationen.
+auth-success-return-to-app-mobile = Omdirigerar dig tillbaka till appen { -vpn-product-name }...
+auth-success-return-to-app-mobile-button = Klicka på knappen nedan för att slutföra installationen.
+auth-success-linked-to-app = Inloggningen lyckades!
+auth-success-return-to-app-button = Återgå till { -vpn-product-name }
+auth-error-return-to-app = Vänligen gå tillbaka till appen { -vpn-product-name } och försök igen.
+auth-error-return-to-app-mobile = Omdirigerar dig tillbaka till appen { -vpn-product-name } för att försöka igen...
+auth-error-deprecated = Vänligen <update>uppdatera</update> till den senaste versionen av { -vpn-product-name }.
+auth-error-unsupported-version = Version som inte stöds upptäcktes.
+auth-error-unable-to-link = Hoppsan! Något gick fel.
 
 ## Error Page
 
+vpn-error-page-title =
+    .title = Fel: { -vpn-product-name }
+error = Fel
+page-not-found = Sidan hittades inte.
+something-went-wrong = Hoppsan, något gick fel.
