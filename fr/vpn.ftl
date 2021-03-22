@@ -40,6 +40,7 @@ menu = Menu
 ## Site Footer
 
 footer-privacy = Confidentialité
+footer-terms = Conditions d’utilisation
 footer-cookies = Cookies
 footer-legal = Mentions légales
 
