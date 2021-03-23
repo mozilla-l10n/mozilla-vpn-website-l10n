@@ -29,10 +29,10 @@ vpn-site-title =
 home = Cartref
 sign-out = Allgofnodi
 user-avatar =
-    .aria-label = Agor llywio cyfrif
-signed-in-as = Llofnodwyd fel: <user>{ $user }</user>
-manage-account = Rheoli cyfrif
-manage-subscription = Rheoli tanysgrifiadau
+    .aria-label = Agor llywio'r cyfrif
+signed-in-as = Mewngofnodwyd fel: <user>{ $user }</user>
+manage-account = Rheoli'r cyfrif
+manage-subscription = Rheoli'r tanysgrifo
 contact-us = Cysylltu â ni
 help-and-support = Cymorth a chefnogaeth
 menu = Dewislen
@@ -74,6 +74,20 @@ download-unsupported-country = Dim ond o wledydd penodol y mae modd llwytho { -v
 auth-page-title =
     .title = Ewch nôl i'r ap { -vpn-product-name }
 auth-success-return-to-app = Ewch nôl i'r ap { -vpn-product-name } i gwblhau'r gosod.
+auth-success-return-to-app-mobile = Yn eich ailgyfeirio nôl i'r ap { -vpn-product-name }...
+auth-success-return-to-app-mobile-button = Cliciwch y botwm isod i gwblhau'r gosod.
+auth-success-linked-to-app = Mewngofnodi'n llwyddiannus!
+auth-success-return-to-app-button = Ewch nôl i { -vpn-product-name }
+auth-error-return-to-app = Ewch nôl i'r ap { -vpn-product-name } i gwblhau'r gosod.
+auth-error-return-to-app-mobile = Ewch nôl i'r ap { -vpn-product-name } i geisio eto…
+auth-error-deprecated = <update>Diweddarwch</update> i'r fersiwn ddiweddaraf o { -vpn-product-name }.
+auth-error-unsupported-version = Fersiwn heb ei gefnogi wedi'i ganfod.
+auth-error-unable-to-link = Wps! Aeth rhywbeth o'i le.
 
 ## Error Page
 
+vpn-error-page-title =
+    .title = Gwall: { -vpn-product-name }
+error = Gwall
+page-not-found = Heb ganfod y dudalen
+something-went-wrong = Wps! Aeth rhywbeth o'i le.
