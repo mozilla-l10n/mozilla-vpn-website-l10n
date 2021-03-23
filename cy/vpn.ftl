@@ -63,10 +63,17 @@ download-page-title =
 download-vpn-title = Llwytho { -vpn-product-name } i Lawr
 download-vpn-description = Gallwch lwytho'r VPN i lawr ar hyd at 5 dyfais gydag un tanysgrifiad.
 download-windows-button = Llwytho i Lawr
-download-ios-button = Agor yr App Store
+download-ios-button = Ar gael ar yr App Store
+download-android-button = Ar gael ar Google Play Store
+download-mac-button = Llwytho i Lawr
+download-linux-button = Llwytho i Lawr
+download-unsupported-country = Dim ond o wledydd penodol y mae modd llwytho { -vpn-product-name } i lawr
 
 ## Client Auth Pages
 
+auth-page-title =
+    .title = Ewch nôl i'r ap { -vpn-product-name }
+auth-success-return-to-app = Ewch nôl i'r ap { -vpn-product-name } i gwblhau'r gosod.
 
 ## Error Page
 
