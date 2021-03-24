@@ -33,6 +33,7 @@ user-avatar =
 signed-in-as = Aangemeld als: <user>{ $user }</user>
 manage-account = Account beheren
 manage-subscription = Abonnement beheren
+contact-us = Contact
 help-and-support = Hulp en ondersteuning
 menu = Menu
 
@@ -62,6 +63,8 @@ download-page-title =
 download-vpn-title = { -vpn-product-name } downloaden
 download-vpn-description = U kunt de VPN op maximaal 5 apparaten downloaden met één abonnement.
 download-windows-button = Downloaden
+download-ios-button = Downloaden in de App Store
+download-android-button = Downloaden in Google Play Store
 download-mac-button = Downloaden
 download-linux-button = Downloaden
 download-unsupported-country = U kunt { -vpn-product-name } alleen uit goedgekeurde landen downloaden
@@ -77,6 +80,7 @@ auth-success-linked-to-app = Met succes aangemeld!
 auth-success-return-to-app-button = Terug naar { -vpn-product-name }
 auth-error-return-to-app = Ga terug naar de { -vpn-product-name }-app en probeer het opnieuw.
 auth-error-return-to-app-mobile = U wordt naar de { -vpn-product-name }-app teruggestuurd om het opnieuw te proberen…
+auth-error-deprecated = <update>Werk bij</update> naar de nieuwste versie van { -vpn-product-name }.
 auth-error-unsupported-version = Niet-ondersteunde versie gedetecteerd.
 auth-error-unable-to-link = Oeps, er is iets misgegaan.
 
