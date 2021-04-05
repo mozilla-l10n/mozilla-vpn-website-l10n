@@ -64,9 +64,30 @@ download-vpn-title = { -vpn-product-name } letöltése
 download-vpn-description = Egy előfizetéssel legfeljebb 5 eszközre töltheti le a VPN-t.
 download-windows-button = Letöltés
 download-ios-button = Szerezze be az App Store-ból
+download-android-button = Szerezze be a Google Play Áruházból
+download-mac-button = Letöltés
+download-linux-button = Letöltés
+download-unsupported-country = A { -vpn-product-name } csak a jóváhagyott országokból tölthető le.
 
 ## Client Auth Pages
 
+auth-page-title =
+    .title = Térjen vissza a { -vpn-product-name } alkalmazáshoz
+auth-success-return-to-app = A telepítés befejezéséhez térjen vissza a { -vpn-product-name } alkalmazáshoz
+auth-success-return-to-app-mobile = Visszairányítás a { -vpn-product-name } alkalmazáshoz…
+auth-success-return-to-app-mobile-button = A telepítés befejezéséhez kattintson az alábbi gombra.
+auth-success-linked-to-app = Bejelentkezés sikeres!
+auth-success-return-to-app-button = Vissza a { -vpn-product-name }-hez
+auth-error-return-to-app = Térjen vissza a { -vpn-product-name } alkalmazáshoz, és próbálja újra.
+auth-error-return-to-app-mobile = Visszairányítás a { -vpn-product-name } alkalmazáshoz, hogy újrapróbálhassa…
+auth-error-deprecated = <update>Frissítsen</update> a { -vpn-product-name } legfrissebb verziójára.
+auth-error-unsupported-version = Nem támogatott verzió észlelve.
+auth-error-unable-to-link = Hoppá, hiba történt.
 
 ## Error Page
 
+vpn-error-page-title =
+    .title = Hiba: { -vpn-product-name }
+error = Hiba
+page-not-found = Az oldal nem található.
+something-went-wrong = Hoppá, hiba történt.
