@@ -39,9 +39,26 @@ menu = Menu
 footer-privacy = Confidentialitate
 footer-terms = Terminos e conditiones
 footer-cookies = Cookies
+footer-legal = Mentiones legal
 
 ## VPN Download Page
 
+download-for-windows = VPN pro Windows 10
+download-for-android = VPN pro Android
+download-for-android-details = Version 6 e superior
+download-for-ios = VPN pro iOS
+download-for-ios-details = Version 13.0 e superior
+download-for-mac = VPN pro MAC
+download-for-mac-details = Version 10.15 e superior
+download-for-linux = VPN pro Linux
+download-for-linux-details = Ubuntu
+coming-soon = Veniente tosto
+download-page-title =
+    .title = Discargar: { -vpn-product-name }
+download-vpn-title = Discargar { -vpn-product-name }
+download-windows-button = Discargar
+download-mac-button = Discargar
+download-linux-button = Discargar
 
 ## Client Auth Pages
 
