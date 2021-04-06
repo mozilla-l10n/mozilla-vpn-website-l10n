@@ -63,11 +63,16 @@ download-page-title =
 download-vpn-title = Discargar { -vpn-product-name }
 download-vpn-description = Tu pote discargar le VPN sur maximo 5 apparatos con un subscription.
 download-windows-button = Discargar
+download-ios-button = Installar per App Store
+download-android-button = Installar per Google Play Store
 download-mac-button = Discargar
 download-linux-button = Discargar
+download-unsupported-country = Tu pote discargar { -vpn-product-name } solo ab  paises approbate
 
 ## Client Auth Pages
 
+auth-page-title =
+    .title = Per favor retornar al app { -vpn-product-name }
 
 ## Error Page
 
