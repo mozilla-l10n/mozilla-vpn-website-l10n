@@ -28,6 +28,9 @@ vpn-site-title =
 
 home = A casa
 sign-out = Clauder session
+user-avatar =
+    .aria-label = Aperir conto navigation
+signed-in-as = Connexe como: <usator>{ $user }</usator>
 manage-account = Gerer le conto
 manage-subscription = Gerer le subscription
 contact-us = Contacta nos
@@ -44,6 +47,7 @@ footer-legal = Mentiones legal
 ## VPN Download Page
 
 download-for-windows = VPN pro Windows 10
+download-for-windows-details = Windows 10 (solo 64-bit)
 download-for-android = VPN pro Android
 download-for-android-details = Version 6 e superior
 download-for-ios = VPN pro iOS
@@ -52,10 +56,12 @@ download-for-mac = VPN pro MAC
 download-for-mac-details = Version 10.15 e superior
 download-for-linux = VPN pro Linux
 download-for-linux-details = Ubuntu
+available = DISPONIBILE
 coming-soon = Veniente tosto
 download-page-title =
     .title = Discargar: { -vpn-product-name }
 download-vpn-title = Discargar { -vpn-product-name }
+download-vpn-description = Tu pote discargar le VPN sur maximo 5 apparatos con un subscription.
 download-windows-button = Discargar
 download-mac-button = Discargar
 download-linux-button = Discargar
@@ -65,3 +71,7 @@ download-linux-button = Discargar
 
 ## Error Page
 
+vpn-error-page-title =
+    .title = Error: { -vpn-product-name }
+error = Error
+page-not-found = Pagina non trovate.
