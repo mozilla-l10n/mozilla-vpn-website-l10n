@@ -81,6 +81,8 @@ auth-success-return-to-app-button = Retornar a { -vpn-product-name }
 auth-error-return-to-app = Retorna al app { -vpn-product-name } e reproba.
 auth-error-return-to-app-mobile = Redirigente te retro al app { -vpn-product-name } pro reprobar…
 auth-error-deprecated = <actualisar>Actualisa</actualisar> al ultime version de { -vpn-product-name }.
+auth-error-unsupported-version = Version non supportate disvelate.
+auth-error-unable-to-link = Oppla! Alco errate eveniva.
 
 ## Error Page
 
@@ -88,3 +90,4 @@ vpn-error-page-title =
     .title = Error: { -vpn-product-name }
 error = Error
 page-not-found = Pagina non trovate.
+something-went-wrong = Oppla! Alco errate eveniva.
