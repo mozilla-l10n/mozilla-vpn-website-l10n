@@ -72,7 +72,8 @@ download-unsupported-country = Tu pote discargar { -vpn-product-name } solo ab  
 ## Client Auth Pages
 
 auth-page-title =
-    .title = Per favor retornar al app { -vpn-product-name }
+    .title = Retorna al app { -vpn-product-name }
+auth-success-return-to-app = Retorna al app { -vpn-product-name } pro completar le installation.
 
 ## Error Page
 
