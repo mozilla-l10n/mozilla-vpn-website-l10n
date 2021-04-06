@@ -74,6 +74,13 @@ download-unsupported-country = Tu pote discargar { -vpn-product-name } solo ab  
 auth-page-title =
     .title = Retorna al app { -vpn-product-name }
 auth-success-return-to-app = Retorna al app { -vpn-product-name } pro completar le installation.
+auth-success-return-to-app-mobile = Redirigente te retro al app { -vpn-product-name }…
+auth-success-return-to-app-mobile-button = Clicca sur le button infra pro completar le installation.
+auth-success-linked-to-app = Authentication con successo!
+auth-success-return-to-app-button = Retornar a { -vpn-product-name }
+auth-error-return-to-app = Retorna al app { -vpn-product-name } e reproba.
+auth-error-return-to-app-mobile = Redirigente te retro al app { -vpn-product-name } pro reprobar…
+auth-error-deprecated = <actualisar>Actualisa</actualisar> al ultime version de { -vpn-product-name }.
 
 ## Error Page
 
