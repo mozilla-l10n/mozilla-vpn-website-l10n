@@ -27,10 +27,10 @@ vpn-site-title =
 ## Site Header
 
 home = Accolta
-sign-out = Scunnettassi
+sign-out = Scunnettesi
 user-avatar =
     .aria-label = Apre u listinu di u contu
-signed-in-as = Cunnettu cum’è : <user>{ $user }</user>
+signed-in-as = Cunnessu cum’è : <user>{ $user }</user>
 manage-account = Ghjestione di u contu
 manage-subscription = Ghjestione di l’abbunamentu
 contact-us = Cuntattacci
