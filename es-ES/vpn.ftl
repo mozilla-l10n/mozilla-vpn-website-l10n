@@ -82,6 +82,12 @@ auth-error-return-to-app = Volver a la aplicación { -vpn-product-name } y volve
 auth-error-return-to-app-mobile = Redirigiéndote a la aplicación { -vpn-product-name } para volver a intentarlo…
 auth-error-deprecated = Por favor, <update>actualiza</update> a la última versión de { -vpn-product-name }.
 auth-error-unsupported-version = Se ha detectado una versión no compatible.
+auth-error-unable-to-link = Se ha producido un error.
 
 ## Error Page
 
+vpn-error-page-title =
+    .title = Error: { -vpn-product-name }
+error = Error
+page-not-found = Página no encontrada.
+something-went-wrong = Se ha producido un error.
