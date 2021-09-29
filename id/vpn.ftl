@@ -49,13 +49,13 @@ footer-legal = Legal
 download-for-windows = VPN untuk Windows 10
 download-for-windows-details = Windows 10 (versi 64-bit saja)
 download-for-android = VPN untuk Android
-download-for-android-details-at2-2 = Versi 8 dan lebih tinggi
+download-for-android-details-at2-2 = Versi 8 ke atas
 download-for-ios = VPN untuk iOS
-download-for-ios-details-at2-2 = Versi 12.0 dan lebih tinggi
+download-for-ios-details-at2-2 = Versi 12.0 ke atas
 download-for-mac = VPN untuk Mac
-download-for-mac-details-at2-2 = Versi 10.14 dan lebih tinggi
+download-for-mac-details-at2-2 = Versi 10.14 ke atas
 download-for-linux = VPN untuk Linux
-download-for-linux-details-at2-2 = Ubuntu 18.04 dan lebih tinggi
+download-for-linux-details-at2-2 = Ubuntu 18.04 ke atas
 available = TERSEDIA
 coming-soon = Segera Hadir
 download-page-title =
@@ -73,6 +73,21 @@ download-unsupported-country = Anda hanya dapat mengunduh { -vpn-product-name } 
 
 auth-page-title =
     .title = Silakan kembali ke aplikasi { -vpn-product-name }
+auth-success-return-to-app = Harap kembali ke aplikasi { -vpn-product-name } untuk menyelesaikan persiapan.
+auth-success-return-to-app-mobile = Mengarahkan Anda kembali ke aplikasi { -vpn-product-name }…
+auth-success-return-to-app-mobile-button = Silakan klik tombol di bawah ini untuk menyelesaikan persiapan.
+auth-success-linked-to-app = Berhasil masuk!
+auth-success-return-to-app-button = Kembali ke { -vpn-product-name }
+auth-error-return-to-app = Silakan kembali ke aplikasi { -vpn-product-name } dan coba lagi.
+auth-error-return-to-app-mobile = Mengarahkan Anda kembali ke aplikasi { -vpn-product-name }…
+auth-error-deprecated = Mohon <update>perbarui</update> { -vpn-product-name } ke versi terbaru.
+auth-error-unsupported-version = Versi yang tidak didukung terdeteksi.
+auth-error-unable-to-link = Ups! Terjadi kesalahan.
 
 ## Error Page
 
+vpn-error-page-title =
+    .title = Masalah: { -vpn-product-name }
+error = Masalah
+page-not-found = Laman tidak ditemukan.
+something-went-wrong = Ups, terjadi kesalahan
