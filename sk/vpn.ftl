@@ -46,8 +46,8 @@ footer-legal = Právne informácie
 
 ## VPN Download Page
 
-download-for-windows = VPN pre Windows 10
-download-for-windows-details = Windows 10 (len 64-bitová verzia)
+download-for-windows-2 = VPN pre Windows 10/11
+download-for-windows-details-2 = Windows 10/11 (len 64-bitová verzia)
 download-for-android = VPN pre Android
 download-for-android-details-at2-2 = Verzia 8 a novšia
 download-for-ios = VPN pre iOS
