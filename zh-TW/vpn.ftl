@@ -46,8 +46,8 @@ footer-legal = 法律資訊
 
 ## VPN Download Page
 
-download-for-windows = Windows 10 平台的 VPN
-download-for-windows-details = Windows 10（僅 64 位元）
+download-for-windows-2 = Windows 10/11 的 VPN
+download-for-windows-details-2 = Windows 10/11（僅 64 位元）
 download-for-android = Android 平台的 VPN
 download-for-android-details-at2-2 = 第 8 版或更新版本
 download-for-ios = iOS 平台的 VPN
