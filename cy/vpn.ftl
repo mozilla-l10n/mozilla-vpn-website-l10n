@@ -46,8 +46,8 @@ footer-legal = Cyfreithiol
 
 ## VPN Download Page
 
-download-for-windows = VPN ar gyfer Windows 10
-download-for-windows-details = Windows 10 (64-did yn unig)
+download-for-windows-2 = VPN ar gyfer Windows 10/11
+download-for-windows-details-2 = Windows 10/11 (64-did yn unig)
 download-for-android = VPN ar gyfer Android
 download-for-android-details-at2-2 = Fersiwn 8 ac uwch
 download-for-ios = VPN ar gyfer iOS
