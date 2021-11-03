@@ -46,8 +46,8 @@ footer-legal = Jogi információk
 
 ## VPN Download Page
 
-download-for-windows = VPN Windows 10-hez
-download-for-windows-details = Windows 10 (csak 64 bites)
+download-for-windows-2 = VPN Windows 10/11-hez
+download-for-windows-details-2 = Windows 10/11 (csak 64 bites)
 download-for-android = VPN Androidra
 download-for-android-details-at2-2 = 8-as vagy újabb verzió
 download-for-ios = VPN iOS-re
