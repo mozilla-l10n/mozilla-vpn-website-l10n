@@ -46,8 +46,8 @@ footer-legal = Legal
 
 ## VPN Download Page
 
-download-for-windows = VPN untuk Windows 10
-download-for-windows-details = Windows 10 (versi 64-bit saja)
+download-for-windows-2 = VPN untuk Windows 10/11
+download-for-windows-details-2 = Windows 10/11 (64-bit saja)
 download-for-android = VPN untuk Android
 download-for-android-details-at2-2 = Versi 8 ke atas
 download-for-ios = VPN untuk iOS
