@@ -78,8 +78,16 @@ auth-success-return-to-app-mobile = Redirigiéndote a la aplicación { -vpn-prod
 auth-success-return-to-app-mobile-button = Haz clic en el botón de abajo para completar la configuración.
 auth-success-linked-to-app = ¡Inicio de sesión exitoso!
 auth-success-return-to-app-button = Regresar a { -vpn-product-name }
-auth-error-return-to-app = Volver a la aplicación { -vpn-product-name } y volver a intentar.
+auth-error-return-to-app = Por favor, regresa a la aplicación { -vpn-product-name } e intenta de nuevo.
 auth-error-return-to-app-mobile = Redirigiéndote a la aplicación { -vpn-product-name } para volver a intentarlo…
+auth-error-deprecated = Por favor, <update>actualiza</update> a la última versión de { -vpn-product-name }.
+auth-error-unsupported-version = Se ha detectado una versión no compatible.
+auth-error-unable-to-link = ¡Ups! Algo salió mal.
 
 ## Error Page
 
+vpn-error-page-title =
+    .title = Error: { -vpn-product-name }
+error = Error
+page-not-found = Página no encontrada.
+something-went-wrong = Ups, algo salió mal.
