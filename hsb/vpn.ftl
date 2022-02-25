@@ -61,9 +61,27 @@ coming-soon = Bórze k dispoziciji
 download-page-title =
     .title = Sćahnyć: { -vpn-product-name }
 download-vpn-title = { -vpn-product-name } sćahnyć
+download-vpn-description = Móžeće VPN na hač do 5 gratow z jednym abonementom sćahnyć.
+download-windows-button = Sćahnyć
+download-ios-button = W App Store k dispoziciji
+download-android-button = W Google Play Store k dispoziciji
+download-mac-button = Sćahnyć
+download-linux-button = Sćahnyć
+download-unsupported-country = Móžeće { -vpn-product-name } jenož z dopušćenych krajow sćahnyć
 
 ## Client Auth Pages
 
+auth-page-title =
+    .title = Prošu wróććo so k nałoženju { -vpn-product-name }
+auth-success-return-to-app = Prošu wróććo so k nałoženju { -vpn-product-name }, zo byšće konfiguraciju dokónčił.
+auth-success-return-to-app-mobile = Přiwjedu was do nałoženja { -vpn-product-name } wróćo…
+auth-success-return-to-app-mobile-button = Prošu klikńće na slědowace tłóčatko, zo byšće konfiguraciju dokónčił.
+auth-success-linked-to-app = Přizjewjenje bě wuspěšne!
+auth-success-return-to-app-button = Wróćo k { -vpn-product-name }
+auth-error-return-to-app = Prošu wróććo so k nałoženju { -vpn-product-name } a spytajće hišće raz.
+auth-error-return-to-app-mobile = Přiwjedu was do nałoženja { -vpn-product-name } wróćo, zo byšće hišće raz spytał…
+auth-error-deprecated = Prošu <update>aktualizujće</update> na najnowšu wersiju { -vpn-product-name }.
+auth-error-unsupported-version = Njepodpěrana wersija je so wotkryła.
 
 ## Error Page
 
