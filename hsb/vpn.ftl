@@ -82,6 +82,12 @@ auth-error-return-to-app = Prošu wróććo so k nałoženju { -vpn-product-name
 auth-error-return-to-app-mobile = Přiwjedu was do nałoženja { -vpn-product-name } wróćo, zo byšće hišće raz spytał…
 auth-error-deprecated = Prošu <update>aktualizujće</update> na najnowšu wersiju { -vpn-product-name }.
 auth-error-unsupported-version = Njepodpěrana wersija je so wotkryła.
+auth-error-unable-to-link = Hopla! Něšto je so nimokuliło.
 
 ## Error Page
 
+vpn-error-page-title =
+    .title = Zmylk: { -vpn-product-name }
+error = Zmylk
+page-not-found = Strona njeje so namakała.
+something-went-wrong = Hopla, něšto je so nimokuliło.
