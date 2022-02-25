@@ -74,6 +74,20 @@ download-unsupported-country = Móžośo { -vpn-product-name } jano z pśizwólo
 auth-page-title =
     .title = Pšosym wrośćo se k nałoženjeju { -vpn-product-name }
 auth-success-return-to-app = Pšosym wrośćo se k nałoženjeju { -vpn-product-name }, aby konfiguraciju dokóńcył.
+auth-success-return-to-app-mobile = Wjedu was do nałoženja { -vpn-product-name } slědk…
+auth-success-return-to-app-mobile-button = Pšosym klikniśo na slědujucy tłocašk, aby konfiguraciju dokóńcył.
+auth-success-linked-to-app = Pśizjawjenje jo było wuspěšne!
+auth-success-return-to-app-button = Slědk k { -vpn-product-name }
+auth-error-return-to-app = Pšosym wrośćo se k nałoženjeju { -vpn-product-name } a wopytajśo hyšći raz.
+auth-error-return-to-app-mobile = Wjedu was do nałoženja { -vpn-product-name } slědk a wopytajśo hyšći raz…
+auth-error-deprecated = Pšosym <update>aktualizěrujśo</update> na nejnowšu wersiju { -vpn-product-name }.
+auth-error-unsupported-version = Njepódprěta wersija jo se namakała.
+auth-error-unable-to-link = Hopla! Něco njejo se raźiło.
 
 ## Error Page
 
+vpn-error-page-title =
+    .title = Zmólka: { -vpn-product-name }
+error = Zmólka
+page-not-found = Bok njejo se namakał.
+something-went-wrong = Hopla, něco njejo se raźiło.
