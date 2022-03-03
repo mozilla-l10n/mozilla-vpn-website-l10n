@@ -28,9 +28,12 @@ vpn-site-title =
 
 home = Etusivu
 sign-out = Kirjaudu ulos
+user-avatar =
+    .aria-label = Avaa tilin navigaatio
 signed-in-as = Kirjautunut tilillä: <user>{ $user }</user>
 manage-account = Hallinnoi tiliä
 manage-subscription = Hallinnoi tilausta
+contact-us = Ota yhteyttä
 help-and-support = Ohjeet ja tuki
 menu = Valikko
 
@@ -39,6 +42,7 @@ menu = Valikko
 footer-privacy = Tietosuoja
 footer-terms = Käyttöehdot
 footer-cookies = Evästeet
+footer-legal = Juridiset asiat
 
 ## VPN Download Page
 
@@ -69,8 +73,14 @@ download-unsupported-country = Voit ladata { -vpn-product-name }:n vain hyväksy
 
 auth-page-title =
     .title = Palaa { -vpn-product-name } -sovellukseen
+auth-success-return-to-app = Palaa { -vpn-product-name } -sovellukseen viimeistelläksesi asennuksen.
+auth-success-return-to-app-mobile = Ohjataan sinut takaisin { -vpn-product-name } -sovellukseen…
 auth-success-return-to-app-mobile-button = Viimeistele asennus napsauttamalla alla olevaa painiketta.
 auth-success-linked-to-app = Kirjautuminen onnistui!
+auth-success-return-to-app-button = Palaa { -vpn-product-name }:ään
+auth-error-return-to-app = Palaa { -vpn-product-name } -sovellukseen ja yritä uudestaan.
+auth-error-return-to-app-mobile = Ohjataan sinut takaisin { -vpn-product-name } -sovellukseen, yritä uudestaan…
+auth-error-deprecated = <update>Päivitä</update> uusimpaan { -vpn-product-name } -versioon.
 auth-error-unsupported-version = Ei-tuettu versio havaittu.
 auth-error-unable-to-link = Oho! Jotain meni pieleen.
 
