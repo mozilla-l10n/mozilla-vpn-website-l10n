@@ -20,7 +20,7 @@
 
 ### Mozilla VPN website
 
--vpn-product-name = ਮੋਜ਼ੀਲਾ VPN
+-vpn-product-name = Mozilla VPN
 vpn-site-title =
     .aria-label = { -vpn-product-name } ਮੁੱਖ ਸਫ਼ਾ
 
