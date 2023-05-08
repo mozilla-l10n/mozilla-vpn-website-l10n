@@ -33,7 +33,7 @@ user-avatar =
 signed-in-as = In session como: <usator>{ $user }</usator>
 manage-account = Gerer le conto
 manage-subscription = Gerer le subscription
-contact-us = Contacta nos
+contact-us = Continge nos
 help-and-support = Auxilio e supporto
 menu = Menu
 
