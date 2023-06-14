@@ -27,6 +27,14 @@
 auth-page-title =
     .title = Por favor, volte à app { -vpn-product-name }
 auth-error-return-to-app = Por favor, volte à app { -vpn-product-name } e tente novamente.
+auth-error-unable-to-link = Oops! Algo correu mal.
+auth-success-return-to-app = Por favor, volte à app { -vpn-product-name } para completar a configuração.
+auth-success-linked-to-app = Início de sessão bem-sucedido!
 
 ## Error Page
 
+vpn-error-page-title =
+    .title = Erro: { -vpn-product-name }
+error = Erro
+page-not-found = Página não encontrada.
+something-went-wrong = Oops, algo correu mal.
