@@ -36,5 +36,5 @@ auth-success-linked-to-app = 로그인 성공!
 vpn-error-page-title =
     .title = 오류: { -vpn-product-name }
 error = 오류
-page-not-found = 페이지를 찿을수 없습니다.
+page-not-found = 페이지를 찿을 수 없습니다.
 something-went-wrong = 문제가 발생했습니다.
