@@ -26,6 +26,9 @@
 
 auth-page-title =
     .title = Proszę powrócić do aplikacji { -vpn-product-name }
+auth-error-return-to-app = Proszę powrócić do aplikacji { -vpn-product-name } i spróbować ponownie.
+auth-error-unable-to-link = Ups! Coś poszło nie tak.
+auth-success-return-to-app = Proszę powrócić do aplikacji { -vpn-product-name } aby dokończyć konfigurację.
 auth-success-linked-to-app = Logowanie powiodło się!
 
 ## Error Page
