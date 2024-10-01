@@ -26,6 +26,15 @@
 
 auth-page-title =
     .title = Върнете се към приложението { -vpn-product-name }
+auth-error-return-to-app = Върнете се към приложението { -vpn-product-name } и опитайте отново.
+auth-error-unable-to-link = Ааах, нещо се обърка.
+auth-success-return-to-app = Върнете се към приложението { -vpn-product-name }, за да завършите настройката.
+auth-success-linked-to-app = Вписани сте!
 
 ## Error Page
 
+vpn-error-page-title =
+    .title = Грешка: { -vpn-product-name }
+error = Грешка
+page-not-found = Страницата не е намерена.
+something-went-wrong = Ааах, нещо се обърка.
