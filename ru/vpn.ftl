@@ -80,7 +80,7 @@ auth-success-linked-to-app = Вход выполнен успешно!
 auth-success-return-to-app-button = Вернуться в { -vpn-product-name }
 auth-error-return-to-app = Пожалуйста, вернитесь в приложение { -vpn-product-name } и попробуйте снова.
 auth-error-return-to-app-mobile = Перенаправляем вас обратно в приложение { -vpn-product-name }, чтобы повторить попытку…
-auth-error-deprecated = Пожалуйста, <update>обновите</update> { -vpn-product-name } до последней версии.
+auth-error-update-required = Пожалуйста, обновите { -vpn-product-name } до последней версии.
 auth-error-unsupported-version = Обнаружена неподдерживаемая версия.
 auth-error-unable-to-link = Ой! Что-то пошло не так.
 

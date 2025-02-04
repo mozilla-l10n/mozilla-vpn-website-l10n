@@ -80,7 +80,7 @@ auth-success-linked-to-app = Prihlásenie bolo úspešné!
 auth-success-return-to-app-button = Späť na { -vpn-product-name }
 auth-error-return-to-app = Prosím, vráťte sa do aplikácie { -vpn-product-name } a skúste to znova.
 auth-error-return-to-app-mobile = Presmerovávame vás späť do aplikácie { -vpn-product-name }, skúste to znova…
-auth-error-deprecated = Prosím, <update>aktualizujte</update> si { -vpn-product-name } na najnovšiu verziu.
+auth-error-update-required = Prosím, aktualizujte si { -vpn-product-name } na najnovšiu verziu.
 auth-error-unsupported-version = Bola zistená nepodporovaná verzia.
 auth-error-unable-to-link = Ups! Niečo sa pokazilo.
 

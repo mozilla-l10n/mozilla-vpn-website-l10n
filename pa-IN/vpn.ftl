@@ -80,7 +80,7 @@ auth-success-linked-to-app = ਕਾਮਯਾਬੀ ਨਾਲ ਸਾਈਨ ਇਨ
 auth-success-return-to-app-button = { -vpn-product-name } 'ਤੇ ਵਾਪਸ ਜਾਓ
 auth-error-return-to-app = { -vpn-product-name } ਉੱਤੇ ਵਾਪਸ ਜਾਓ ਤੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 auth-error-return-to-app-mobile = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ { -vpn-product-name } ਐਪ ਉੱਤੇ ਮੁੜ ਭੇਜਿਆ ਜਾ ਰਿਹਾ ਹੈ…
-auth-error-deprecated = { -vpn-product-name } ਦੇ ਨਵੇਂ ਵਰਜ਼ਨ ਲਈ <update>ਅੱਪਡੇਟ</update> ਕਰੋ।
+auth-error-update-required = { -vpn-product-name } ਦੇ ਨਵੇਂ ਵਰਜ਼ਨ ਲਈ ਅੱਪਡੇਟ ਕਰੋ।
 auth-error-unsupported-version = ਗ਼ੈਰ-ਸਹਾਇਕ ਵਰਜ਼ਨ ਮਿਲਿਆ ਹੈ।
 auth-error-unable-to-link = ਓਹ ਹੋ! ਕੁਝ ਗ਼ਲਤ ਵਾਪਰਿਆ ਹੈ।
 
