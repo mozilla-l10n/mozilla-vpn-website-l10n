@@ -40,3 +40,4 @@ vpn-error-page-title =
 error = Fel
 page-not-found = Sidan hittades inte.
 something-went-wrong = Hoppsan, något gick fel.
+download-vpn-title = Hämta { -vpn-product-name }

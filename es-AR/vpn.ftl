@@ -40,3 +40,4 @@ vpn-error-page-title =
 error = Error
 page-not-found = No se encontró la página
 something-went-wrong = Algo salió mal.
+download-vpn-title = Descargar { -vpn-product-name }

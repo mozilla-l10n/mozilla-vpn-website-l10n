@@ -40,3 +40,4 @@ vpn-error-page-title =
 error = Chyba
 page-not-found = Stránka nebola nájdená.
 something-went-wrong = Ups, niečo sa pokazilo.
+download-vpn-title = Stiahnuť { -vpn-product-name }

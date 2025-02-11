@@ -40,3 +40,4 @@ vpn-error-page-title =
 error = Zmylk
 page-not-found = Strona njeje so namakała.
 something-went-wrong = Hopla, něšto je so nimokuliło.
+download-vpn-title = { -vpn-product-name } sćahnyć

@@ -40,3 +40,4 @@ vpn-error-page-title =
 error = Sbagliu
 page-not-found = A pagina ùn esiste micca.
 something-went-wrong = Ohimè, un sbagliu hè accadutu.
+download-vpn-title = Scaricà { -vpn-product-name }

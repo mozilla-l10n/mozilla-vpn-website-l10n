@@ -38,3 +38,4 @@ vpn-error-page-title =
 error = Masalah
 page-not-found = Laman tidak ditemukan.
 something-went-wrong = Ups, terjadi kesalahan
+download-vpn-title = Unduh { -vpn-product-name }

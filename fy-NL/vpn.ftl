@@ -40,3 +40,4 @@ vpn-error-page-title =
 error = Flater
 page-not-found = Side net fûn.
 something-went-wrong = Oeps, der is wat misgien.
+download-vpn-title = { -vpn-product-name } downloade

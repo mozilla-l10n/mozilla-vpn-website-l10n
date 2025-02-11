@@ -40,3 +40,4 @@ vpn-error-page-title =
 error = Gwall
 page-not-found = Heb ganfod y dudalen
 something-went-wrong = Wps! Aeth rhywbeth o'i le.
+download-vpn-title = Llwytho { -vpn-product-name } i Lawr
