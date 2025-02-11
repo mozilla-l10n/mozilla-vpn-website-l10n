@@ -28,6 +28,8 @@ auth-page-title =
     .title = { -vpn-product-name } 앱으로 돌아가주세요
 auth-error-return-to-app = { -vpn-product-name } 앱으로 돌아가서 다시 시도하세요.
 auth-error-unable-to-link = 앗! 무엇인가 잘못되었습니다.
+auth-error-unsupported-version = 지원하지 않는 버전이 감지되었습니다.
+auth-error-update-required = 최신 버전의 { -vpn-product-name }로 업데이트하세요.
 auth-success-return-to-app = { -vpn-product-name } 앱으로 돌아가서 설정을 완료하세요.
 auth-success-linked-to-app = 로그인 성공!
 
