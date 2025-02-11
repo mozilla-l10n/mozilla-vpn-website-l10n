@@ -80,7 +80,7 @@ auth-success-linked-to-app = 登入成功！
 auth-success-return-to-app-button = 回到 { -vpn-product-name }
 auth-error-return-to-app = 請回到 { -vpn-product-name } 應用程式並再試一次。
 auth-error-return-to-app-mobile = 將您重導回 { -vpn-product-name } 應用程式重試…
-auth-error-deprecated = 請<update>更新</update>到最新版的 { -vpn-product-name }。
+auth-error-update-required = 請更新到最新版的 { -vpn-product-name }。
 auth-error-unsupported-version = 偵測到不支援的版本。
 auth-error-unable-to-link = 喔喔，有些東西不對勁！
 

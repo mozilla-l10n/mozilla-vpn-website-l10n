@@ -80,7 +80,7 @@ auth-success-linked-to-app = Mewngofnodi'n llwyddiannus!
 auth-success-return-to-app-button = Ewch nôl i { -vpn-product-name }
 auth-error-return-to-app = Ewch nôl i'r ap { -vpn-product-name } i gwblhau'r gosod.
 auth-error-return-to-app-mobile = Ewch nôl i'r ap { -vpn-product-name } i geisio eto…
-auth-error-deprecated = <update>Diweddarwch</update> i'r fersiwn ddiweddaraf o { -vpn-product-name }.
+auth-error-update-required = Diweddarwch i'r fersiwn ddiweddaraf o { -vpn-product-name }.
 auth-error-unsupported-version = Fersiwn heb ei gefnogi wedi'i ganfod.
 auth-error-unable-to-link = Wps! Aeth rhywbeth o'i le.
 

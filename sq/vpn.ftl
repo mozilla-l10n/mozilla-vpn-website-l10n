@@ -80,7 +80,7 @@ auth-success-linked-to-app = Hyrje e suksesshme!
 auth-success-return-to-app-button = Kthehu te { -vpn-product-name }
 auth-error-return-to-app = Ju lutemi, kthehuni te aplikacioni { -vpn-product-name } dhe riprovoni.
 auth-error-return-to-app-mobile = Po ju kthejmë mbrapsht te aplikacioni { -vpn-product-name }, që të riprovoni…
-auth-error-deprecated = Ju lutemi, <update>përditësojeni</update> me versionin më të ri të { -vpn-product-name }.
+auth-error-update-required = Ju lutemi, përditësojeni me versionin më të ri të { -vpn-product-name }.
 auth-error-unsupported-version = U pikas version i pambuluar.
 auth-error-unable-to-link = Oh! Diç shkoi ters.
 

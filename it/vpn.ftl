@@ -80,7 +80,7 @@ auth-success-linked-to-app = Accesso riuscito.
 auth-success-return-to-app-button = Ritorna a { -vpn-product-name }
 auth-error-return-to-app = Torna all’app { -vpn-product-name } e riprova.
 auth-error-return-to-app-mobile = Reindirizzamento all’app { -vpn-product-name } per riprovare…
-auth-error-deprecated = <update>Aggiorna</update> { -vpn-product-name } all’ultima versione.
+auth-error-update-required = Aggiorna { -vpn-product-name } all’ultima versione.
 auth-error-unsupported-version = Rilevata versione non supportata.
 auth-error-unable-to-link = Oops, si è verificato un errore.
 

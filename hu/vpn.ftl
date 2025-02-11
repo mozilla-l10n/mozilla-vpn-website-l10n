@@ -80,7 +80,7 @@ auth-success-linked-to-app = Bejelentkezés sikeres!
 auth-success-return-to-app-button = Vissza a { -vpn-product-name }-hez
 auth-error-return-to-app = Térjen vissza a { -vpn-product-name } alkalmazáshoz, és próbálja újra.
 auth-error-return-to-app-mobile = Visszairányítás a { -vpn-product-name } alkalmazáshoz, hogy újrapróbálhassa…
-auth-error-deprecated = <update>Frissítsen</update> a { -vpn-product-name } legfrissebb verziójára.
+auth-error-update-required = Frissítsen a { -vpn-product-name } legfrissebb verziójára.
 auth-error-unsupported-version = Nem támogatott verzió észlelve.
 auth-error-unable-to-link = Hoppá, hiba történt.
 

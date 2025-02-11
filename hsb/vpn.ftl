@@ -80,7 +80,7 @@ auth-success-linked-to-app = Přizjewjenje bě wuspěšne!
 auth-success-return-to-app-button = Wróćo k { -vpn-product-name }
 auth-error-return-to-app = Prošu wróććo so k nałoženju { -vpn-product-name } a spytajće hišće raz.
 auth-error-return-to-app-mobile = Přiwjedu was do nałoženja { -vpn-product-name } wróćo, zo byšće hišće raz spytał…
-auth-error-deprecated = Prošu <update>aktualizujće</update> na najnowšu wersiju { -vpn-product-name }.
+auth-error-update-required = Prošu aktualizujće na najnowšu wersiju { -vpn-product-name }.
 auth-error-unsupported-version = Njepodpěrana wersija je so wotkryła.
 auth-error-unable-to-link = Hopla! Něšto je so nimokuliło.
 

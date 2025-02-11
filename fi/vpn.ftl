@@ -80,7 +80,7 @@ auth-success-linked-to-app = Kirjautuminen onnistui!
 auth-success-return-to-app-button = Palaa { -vpn-product-name }:ään
 auth-error-return-to-app = Palaa { -vpn-product-name } -sovellukseen ja yritä uudestaan.
 auth-error-return-to-app-mobile = Ohjataan sinut takaisin { -vpn-product-name } -sovellukseen, yritä uudestaan…
-auth-error-deprecated = <update>Päivitä</update> uusimpaan { -vpn-product-name } -versioon.
+auth-error-update-required = Päivitä uusimpaan { -vpn-product-name } -versioon.
 auth-error-unsupported-version = Ei-tuettu versio havaittu.
 auth-error-unable-to-link = Oho! Jotain meni pieleen.
 
