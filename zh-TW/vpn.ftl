@@ -21,68 +21,17 @@
 ### Mozilla VPN website
 
 -vpn-product-name = Mozilla VPN
-vpn-site-title =
-    .aria-label = { -vpn-product-name } 首頁
-
-## Site Header
-
-home = 首頁
-sign-out = 登出
-user-avatar =
-    .aria-label = 帳號註冊導航
-signed-in-as = 已登入為: <user>{ $user }</user>
-manage-account = 管理帳號
-manage-subscription = 管理訂閱
-contact-us = 聯絡我們
-help-and-support = 說明與技術支援
-menu = 選單
-
-## Site Footer
-
-footer-privacy = 隱私權
-footer-terms = 服務條款
-footer-cookies = Cookie
-footer-legal = 法律資訊
-
-## VPN Download Page
-
-download-for-windows-2 = Windows 10/11 的 VPN
-download-for-windows-details-2 = Windows 10/11（僅 64 位元）
-download-for-android = Android 平台的 VPN
-download-for-android-details-at2-2 = 第 8 版或更新版本
-download-for-ios = iOS 平台的 VPN
-download-for-ios-details-at2-2 = 12.0 版或更新版本
-download-for-mac = Mac 平台的 VPN
-download-for-mac-details-at2-2 = 10.14 版或更新版本
-download-for-linux = Linux 平台的 VPN
-download-for-linux-details-at2-2 = Ubuntu 18.04 版或更新版本
-available = 可用
-coming-soon = 即將推出
-download-page-title =
-    .title = 下載: { -vpn-product-name }
-download-vpn-title = 下載 { -vpn-product-name }
-download-vpn-description = 每份訂閱最多可以在 5 台裝置下載安裝 VPN 服務。
-download-windows-button = 下載
-download-ios-button = 到 App Store 下載
-download-android-button = 到 Google Play Store 下載
-download-mac-button = 下載
-download-linux-button = 下載
-download-unsupported-country = 您只能在開放服務的國家下載 { -vpn-product-name }
 
 ## Client Auth Pages
 
 auth-page-title =
     .title = 請回到 { -vpn-product-name } 應用程式
-auth-success-return-to-app = 請回到 { -vpn-product-name } 應用程式完成安裝。
-auth-success-return-to-app-mobile = 將您重導回 { -vpn-product-name } 應用程式…
-auth-success-return-to-app-mobile-button = 請點擊下方的按鈕完成安裝。
-auth-success-linked-to-app = 登入成功！
-auth-success-return-to-app-button = 回到 { -vpn-product-name }
 auth-error-return-to-app = 請回到 { -vpn-product-name } 應用程式並再試一次。
-auth-error-return-to-app-mobile = 將您重導回 { -vpn-product-name } 應用程式重試…
-auth-error-update-required = 請更新到最新版的 { -vpn-product-name }。
-auth-error-unsupported-version = 偵測到不支援的版本。
 auth-error-unable-to-link = 喔喔，有些東西不對勁！
+auth-error-unsupported-version = 偵測到不支援的版本。
+auth-error-update-required = 請更新到最新版的 { -vpn-product-name }。
+auth-success-return-to-app = 請回到 { -vpn-product-name } 應用程式完成安裝。
+auth-success-linked-to-app = 登入成功！
 
 ## Error Page
 

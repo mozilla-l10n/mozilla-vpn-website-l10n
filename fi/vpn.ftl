@@ -21,68 +21,17 @@
 ### Mozilla VPN website
 
 -vpn-product-name = Mozilla VPN
-vpn-site-title =
-    .aria-label = { -vpn-product-name }:n etusivu
-
-## Site Header
-
-home = Etusivu
-sign-out = Kirjaudu ulos
-user-avatar =
-    .aria-label = Avaa tilin navigaatio
-signed-in-as = Kirjautunut tilillä: <user>{ $user }</user>
-manage-account = Hallinnoi tiliä
-manage-subscription = Hallinnoi tilausta
-contact-us = Ota yhteyttä
-help-and-support = Ohjeet ja tuki
-menu = Valikko
-
-## Site Footer
-
-footer-privacy = Tietosuoja
-footer-terms = Käyttöehdot
-footer-cookies = Evästeet
-footer-legal = Juridiset asiat
-
-## VPN Download Page
-
-download-for-windows-2 = VPN Windows 10/11:lle
-download-for-windows-details-2 = Windows 10/11 (vain 64-bit)
-download-for-android = VPN Androidille
-download-for-android-details-at2-2 = Versio 8 ja uudemmat
-download-for-ios = VPN iOS:lle
-download-for-ios-details-at2-2 = Versio 12.0 ja uudemmat
-download-for-mac = VPN Macille
-download-for-mac-details-at2-2 = Versio 10.14 ja uudemmat
-download-for-linux = VPN Linuxille
-download-for-linux-details-at2-2 = Ubuntu 18.04 ja uudemmat
-available = SAATAVILLA
-coming-soon = Tulossa pian
-download-page-title =
-    .title = Lataa: { -vpn-product-name }
-download-vpn-title = Lataa { -vpn-product-name }
-download-vpn-description = Voit ladata VPN:n jopa 5 laitteelle yhdellä tilauksella.
-download-windows-button = Lataa
-download-ios-button = Hanki App Storesta
-download-android-button = Lataa Google Play Kaupasta
-download-mac-button = Lataa
-download-linux-button = Lataa
-download-unsupported-country = Voit ladata { -vpn-product-name }:n vain hyväksytyistä maista
 
 ## Client Auth Pages
 
 auth-page-title =
     .title = Palaa { -vpn-product-name } -sovellukseen
-auth-success-return-to-app = Palaa { -vpn-product-name } -sovellukseen viimeistelläksesi asennuksen.
-auth-success-return-to-app-mobile = Ohjataan sinut takaisin { -vpn-product-name } -sovellukseen…
-auth-success-return-to-app-mobile-button = Viimeistele asennus napsauttamalla alla olevaa painiketta.
-auth-success-linked-to-app = Kirjautuminen onnistui!
-auth-success-return-to-app-button = Palaa { -vpn-product-name }:ään
 auth-error-return-to-app = Palaa { -vpn-product-name } -sovellukseen ja yritä uudestaan.
-auth-error-return-to-app-mobile = Ohjataan sinut takaisin { -vpn-product-name } -sovellukseen, yritä uudestaan…
-auth-error-update-required = Päivitä uusimpaan { -vpn-product-name } -versioon.
-auth-error-unsupported-version = Ei-tuettu versio havaittu.
 auth-error-unable-to-link = Oho! Jotain meni pieleen.
+auth-error-unsupported-version = Ei-tuettu versio havaittu.
+auth-error-update-required = Päivitä uusimpaan { -vpn-product-name } -versioon.
+auth-success-return-to-app = Palaa { -vpn-product-name } -sovellukseen viimeistelläksesi asennuksen.
+auth-success-linked-to-app = Kirjautuminen onnistui!
 
 ## Error Page
 

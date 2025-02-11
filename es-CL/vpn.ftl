@@ -21,68 +21,17 @@
 ### Mozilla VPN website
 
 -vpn-product-name = Mozilla VPN
-vpn-site-title =
-    .aria-label = Inicio de { -vpn-product-name }
-
-## Site Header
-
-home = Inicio
-sign-out = Salir
-user-avatar =
-    .aria-label = Abrir navegación de cuenta
-signed-in-as = Conectado como: <user>{ $user }</user>
-manage-account = Administrar cuenta
-manage-subscription = Gestionar suscripción
-contact-us = Contáctanos
-help-and-support = Ayuda y soporte
-menu = Menú
-
-## Site Footer
-
-footer-privacy = Privacidad
-footer-terms = Términos y condiciones
-footer-cookies = Cookies
-footer-legal = Legal
-
-## VPN Download Page
-
-download-for-windows-2 = VPN para Windows 10/11
-download-for-windows-details-2 = Windows 10/11 (solo 64 bits)
-download-for-android = VPN para Android
-download-for-android-details-at2-2 = Versión 8 y superiores
-download-for-ios = VPN para iOS
-download-for-ios-details-at2-2 = Versión 12.0 y superiores
-download-for-mac = VPN para Mac
-download-for-mac-details-at2-2 = Versión 10.14 y superiores
-download-for-linux = VPN para Linux
-download-for-linux-details-at2-2 = Ubuntu 18.04 y superiores
-available = DISPONIBLE
-coming-soon = Próximamente
-download-page-title =
-    .title = Descargar: { -vpn-product-name }
-download-vpn-title = Descargar { -vpn-product-name }
-download-vpn-description = Puedes descargar el VPN en un máximo de 5 dispositivos con una sola suscripción.
-download-windows-button = Descargar
-download-ios-button = Obtener en la App Store
-download-android-button = Obtener en Google Play
-download-mac-button = Descargar
-download-linux-button = Descargar
-download-unsupported-country = Solo puedes descargar { -vpn-product-name } desde los países autorizados
 
 ## Client Auth Pages
 
 auth-page-title =
     .title = Por favor, regresa a la app de { -vpn-product-name }
-auth-success-return-to-app = Por favor, regresa a la app de { -vpn-product-name } para completar la configuración.
-auth-success-return-to-app-mobile = Redirigiéndote a la aplicación { -vpn-product-name }…
-auth-success-return-to-app-mobile-button = Por favor, haz clic en el botón a continuación para completar la configuración.
-auth-success-linked-to-app = ¡Conectado exitosamente!
-auth-success-return-to-app-button = Regresar a { -vpn-product-name }
 auth-error-return-to-app = Por favor, regresa a la app de { -vpn-product-name } y vuelve a intentarlo.
-auth-error-return-to-app-mobile = Redirigiéndote a la aplicación { -vpn-product-name } para volver a intentarlo…
-auth-error-update-required = Por favor, actualiza a la última versión de { -vpn-product-name }.
-auth-error-unsupported-version = Versión no soportada detectada.
 auth-error-unable-to-link = ¡Chuta! Algo se fue a las pailas.
+auth-error-unsupported-version = Versión no soportada detectada.
+auth-error-update-required = Por favor, actualiza a la última versión de { -vpn-product-name }.
+auth-success-return-to-app = Por favor, regresa a la app de { -vpn-product-name } para completar la configuración.
+auth-success-linked-to-app = ¡Conectado exitosamente!
 
 ## Error Page
 

@@ -21,68 +21,17 @@
 ### Mozilla VPN website
 
 -vpn-product-name = Mozilla VPN
-vpn-site-title =
-    .aria-label = Αρχική { -vpn-product-name }
-
-## Site Header
-
-home = Αρχική
-sign-out = Αποσύνδεση
-user-avatar =
-    .aria-label = Άνοιγμα πλοήγησης λογαριασμού
-signed-in-as = Έγινε σύνδεση ως: <user>{ $user }</user>
-manage-account = Διαχείριση λογαριασμού
-manage-subscription = Διαχείριση συνδρομής
-contact-us = Επικοινωνία
-help-and-support = Βοήθεια και υποστήριξη
-menu = Μενού
-
-## Site Footer
-
-footer-privacy = Απόρρητο
-footer-terms = Όροι & προϋποθέσεις
-footer-cookies = Cookies
-footer-legal = Νομικά
-
-## VPN Download Page
-
-download-for-windows-2 = VPN για Windows 10/11
-download-for-windows-details-2 = Windows 10/11 (μόνο 64-bit)
-download-for-android = VPN για Android
-download-for-android-details-at2-2 = Έκδοση 8 και νεότερη
-download-for-ios = VPN για iOS
-download-for-ios-details-at2-2 = Έκδοση 12.0 και νεότερη
-download-for-mac = VPN για Mac
-download-for-mac-details-at2-2 = Έκδοση 10.14 και νεότερη
-download-for-linux = VPN για Linux
-download-for-linux-details-at2-2 = Ubuntu 18.04 και νεότερο
-available = ΔΙΑΘΕΣΙΜΟ
-coming-soon = Έρχεται σύντομα
-download-page-title =
-    .title = Λήψη: { -vpn-product-name }
-download-vpn-title = Λήψη του { -vpn-product-name }
-download-vpn-description = Μπορείτε να κάνετε λήψη του VPN σε έως και 5 συσκευές με μία συνδρομή.
-download-windows-button = Λήψη
-download-ios-button = Λήψη στο App Store
-download-android-button = Λήψη στο Google Play Store
-download-mac-button = Λήψη
-download-linux-button = Λήψη
-download-unsupported-country = Μπορείτε να κάνετε λήψη του { -vpn-product-name } μόνο από εγκεκριμένες χώρες
 
 ## Client Auth Pages
 
 auth-page-title =
     .title = Παρακαλούμε επιστρέψτε στην εφαρμογή { -vpn-product-name }
-auth-success-return-to-app = Παρακαλούμε επιστρέψτε στην εφαρμογή { -vpn-product-name } για να ολοκληρώσετε τη ρύθμιση.
-auth-success-return-to-app-mobile = Ανακατεύθυνση στην εφαρμογή { -vpn-product-name }…
-auth-success-return-to-app-mobile-button = Παρακαλούμε κάντε κλικ στο παρακάτω κουμπί για να ολοκληρώσετε τη ρύθμιση.
-auth-success-linked-to-app = Επιτυχής σύνδεση!
-auth-success-return-to-app-button = Επιστροφή στο { -vpn-product-name }
 auth-error-return-to-app = Παρακαλούμε επιστρέψτε στην εφαρμογή { -vpn-product-name } και δοκιμάστε ξανά.
-auth-error-return-to-app-mobile = Ανακατεύθυνση στην εφαρμογή { -vpn-product-name } για να δοκιμάσετε ξανά…
-auth-error-update-required = Παρακαλούμε ενημερώστε στην πιο πρόσφατη έκδοση του { -vpn-product-name }.
-auth-error-unsupported-version = Εντοπίστηκε μη υποστηριζόμενη έκδοση.
 auth-error-unable-to-link = Ωχ! Κάτι πήγε στραβά.
+auth-error-unsupported-version = Εντοπίστηκε μη υποστηριζόμενη έκδοση.
+auth-error-update-required = Παρακαλούμε ενημερώστε στην πιο πρόσφατη έκδοση του { -vpn-product-name }.
+auth-success-return-to-app = Παρακαλούμε επιστρέψτε στην εφαρμογή { -vpn-product-name } για να ολοκληρώσετε τη ρύθμιση.
+auth-success-linked-to-app = Επιτυχής σύνδεση!
 
 ## Error Page
 

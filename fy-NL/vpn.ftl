@@ -21,68 +21,17 @@
 ### Mozilla VPN website
 
 -vpn-product-name = Mozilla VPN
-vpn-site-title =
-    .aria-label = { -vpn-product-name }-startside
-
-## Site Header
-
-home = Startside
-sign-out = Ofmelde
-user-avatar =
-    .aria-label = Accountnavigaasje iepenje
-signed-in-as = Oanmeld as: <user>{ $user }</user>
-manage-account = Account beheare
-manage-subscription = Abonnemint beheare
-contact-us = Nim kontakt op
-help-and-support = Help en stipe
-menu = Menu
-
-## Site Footer
-
-footer-privacy = Privacy
-footer-terms = Betingsten & foarwearden
-footer-cookies = Cookies
-footer-legal = Juridysk
-
-## VPN Download Page
-
-download-for-windows-2 = VPN foar Windows 10/11
-download-for-windows-details-2 = Windows 10/11 (allinnich 64-bit)
-download-for-android = VPN foar Android
-download-for-android-details-at2-2 = Ferzje 8 en heger
-download-for-ios = VPN foar iOS
-download-for-ios-details-at2-2 = Ferzje 12.0 en heger
-download-for-mac = VPN foar Mac
-download-for-mac-details-at2-2 = Ferzje 10.14 en heger
-download-for-linux = VPN foar Linux
-download-for-linux-details-at2-2 = Ubuntu 18.04 en heger
-available = BESKIKBER
-coming-soon = Ynkoarten beskikber
-download-page-title =
-    .title = Download: { -vpn-product-name }
-download-vpn-title = { -vpn-product-name } downloade
-download-vpn-description = Jo kinne de VPN op maksimaal 5 apparaten downloade mei ien abonnemint.
-download-windows-button = Downloade
-download-ios-button = Downloade yn de App Store
-download-android-button = Downloade yn de Google Play Store
-download-mac-button = Downloade
-download-linux-button = Downloade
-download-unsupported-country = Jo kinne { -vpn-product-name } allinnich út goedkarre lannen downloade
 
 ## Client Auth Pages
 
 auth-page-title =
     .title = Gean werom nei de { -vpn-product-name }-app
-auth-success-return-to-app = Gean werom nei de { -vpn-product-name }-app om de ynstallaasje te foltôgjen.
-auth-success-return-to-app-mobile = Jo wurde nei de { -vpn-product-name }-app weromstjoerd…
-auth-success-return-to-app-mobile-button = Klik op de ûndersteande knop om de ynstallaasje te foltôgjen.
-auth-success-linked-to-app = Mei sukses oanmeld!
-auth-success-return-to-app-button = Werom nei { -vpn-product-name }
 auth-error-return-to-app = Gean werom nei de { -vpn-product-name }-app en probearje it opnij.
-auth-error-return-to-app-mobile = Jo wurde nei de { -vpn-product-name }-app weromstjoerd om it opnij te probearjen…
-auth-error-update-required = Fernij nei de lêste ferzje fan { -vpn-product-name }.
-auth-error-unsupported-version = Net-stipe ferzje detektearre.
 auth-error-unable-to-link = Oeps, der is wat misgien.
+auth-error-unsupported-version = Net-stipe ferzje detektearre.
+auth-error-update-required = Fernij nei de lêste ferzje fan { -vpn-product-name }.
+auth-success-return-to-app = Gean werom nei de { -vpn-product-name }-app om de ynstallaasje te foltôgjen.
+auth-success-linked-to-app = Mei sukses oanmeld!
 
 ## Error Page
 

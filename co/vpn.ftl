@@ -21,68 +21,17 @@
 ### Mozilla VPN website
 
 -vpn-product-name = Mozilla VPN
-vpn-site-title =
-    .aria-label = Pagina d’accolta di { -vpn-product-name }
-
-## Site Header
-
-home = Accolta
-sign-out = Scunnettesi
-user-avatar =
-    .aria-label = Apre u listinu di u contu
-signed-in-as = Cunnessu cum’è : <user>{ $user }</user>
-manage-account = Ghjestione di u contu
-manage-subscription = Ghjestione di l’abbunamentu
-contact-us = Cuntattacci
-help-and-support = Aiutu è assistenza
-menu = Listinu
-
-## Site Footer
-
-footer-privacy = Vita privata
-footer-terms = Cundizioni d’utilizazione
-footer-cookies = Canistrelli
-footer-legal = Infurmazioni legale
-
-## VPN Download Page
-
-download-for-windows-2 = VPN per Windows 10/11
-download-for-windows-details-2 = Windows 10/11 (solu 64-bit)
-download-for-android = VPN per Android
-download-for-android-details-at2-2 = Versione 8 è più recente
-download-for-ios = VPN per iOS
-download-for-ios-details-at2-2 = Versione 12.0 è più recente
-download-for-mac = VPN per Mac
-download-for-mac-details-at2-2 = Versione 10.14 è più recente
-download-for-linux = VPN per Linux
-download-for-linux-details-at2-2 = Ubuntu 18.04 è più recente
-available = DISPUNIBULE
-coming-soon = Dispunibule à mumenti
-download-page-title =
-    .title = Scaricà : { -vpn-product-name }
-download-vpn-title = Scaricà { -vpn-product-name }
-download-vpn-description = Pudete scaricà a VPN nant’à un massimu di 5 apparechji cù un abbunamentu.
-download-windows-button = Scaricà
-download-ios-button = Ottenela nant’à l’App Store
-download-android-button = Ottenela nant’à Google Play Store
-download-mac-button = Scaricà
-download-linux-button = Scaricà
-download-unsupported-country = Pudete scaricà { -vpn-product-name } solu da certi paesi
 
 ## Client Auth Pages
 
 auth-page-title =
     .title = Ci vole à rivene à l’appiecazione { -vpn-product-name }
-auth-success-return-to-app = Ci vole à rivene à l’appiecazione { -vpn-product-name } per compie a cunfigurazione.
-auth-success-return-to-app-mobile = Ritornu à l’appiecazione { -vpn-product-name }…
-auth-success-return-to-app-mobile-button = Ci vole à cliccà nant’à u buttone quaghjò per compie a cunfigurazione.
-auth-success-linked-to-app = Cunnessione riesciuta.
-auth-success-return-to-app-button = Ritornu à { -vpn-product-name }
 auth-error-return-to-app = Ci vole à rivene à l’appiecazione { -vpn-product-name } è pruvà torna.
-auth-error-return-to-app-mobile = Ritornu à l’appiecazione { -vpn-product-name } per pruvà torna…
-auth-error-update-required = Ci vole à installà l’ultima versione di { -vpn-product-name }.
-auth-error-unsupported-version = Scuperta d’una versione micca accettata.
 auth-error-unable-to-link = Umbè ! Un sbagliu hè accadutu.
+auth-error-unsupported-version = Scuperta d’una versione micca accettata.
+auth-error-update-required = Ci vole à installà l’ultima versione di { -vpn-product-name }.
+auth-success-return-to-app = Ci vole à rivene à l’appiecazione { -vpn-product-name } per compie a cunfigurazione.
+auth-success-linked-to-app = Cunnessione riesciuta.
 
 ## Error Page
 

@@ -21,68 +21,17 @@
 ### Mozilla VPN website
 
 -vpn-product-name = Mozilla VPN
-vpn-site-title =
-    .aria-label = { -vpn-product-name } Home
-
-## Site Header
-
-home = Home
-sign-out = Sign out
-user-avatar =
-    .aria-label = Open account navigation
-signed-in-as = Signed in as: <user>{ $user }</user>
-manage-account = Manage account
-manage-subscription = Manage subscription
-contact-us = Contact us
-help-and-support = Help and support
-menu = Menu
-
-## Site Footer
-
-footer-privacy = Privacy
-footer-terms = Terms & Conditions
-footer-cookies = Cookies
-footer-legal = Legal
-
-## VPN Download Page
-
-download-for-windows-2 = VPN for Windows 10/11
-download-for-windows-details-2 = Windows 10/11 (64-bit only)
-download-for-android = VPN for Android
-download-for-android-details-at2-2 = Version 8 and up
-download-for-ios = VPN for iOS
-download-for-ios-details-at2-2 = Version 12.0 and up
-download-for-mac = VPN for Mac
-download-for-mac-details-at2-2 = Version 10.14 and up
-download-for-linux = VPN for Linux
-download-for-linux-details-at2-2 = Ubuntu 18.04 and up
-available = AVAILABLE
-coming-soon = Coming soon
-download-page-title =
-    .title = Download: { -vpn-product-name }
-download-vpn-title = Download { -vpn-product-name }
-download-vpn-description = You can download the VPN on up to 5 devices with one subscription.
-download-windows-button = Download
-download-ios-button = Get on App Store
-download-android-button = Get on Google Play Store
-download-mac-button = Download
-download-linux-button = Download
-download-unsupported-country = You can only download { -vpn-product-name } from approved countries
 
 ## Client Auth Pages
 
 auth-page-title =
     .title = Please return to the { -vpn-product-name } app
-auth-success-return-to-app = Please return to the { -vpn-product-name } app to complete setup.
-auth-success-return-to-app-mobile = Redirecting you back to the { -vpn-product-name } app…
-auth-success-return-to-app-mobile-button = Please click the button below to complete setup.
-auth-success-linked-to-app = Sign-in successful!
-auth-success-return-to-app-button = Return to { -vpn-product-name }
 auth-error-return-to-app = Please return to the { -vpn-product-name } app and try again.
-auth-error-return-to-app-mobile = Redirecting you back to the { -vpn-product-name } app to try again…
-auth-error-update-required = Please update to the latest version of { -vpn-product-name }.
-auth-error-unsupported-version = Unsupported version detected.
 auth-error-unable-to-link = Oops! Something went wrong.
+auth-error-unsupported-version = Unsupported version detected.
+auth-error-update-required = Please update to the latest version of { -vpn-product-name }.
+auth-success-return-to-app = Please return to the { -vpn-product-name } app to complete setup.
+auth-success-linked-to-app = Sign-in successful!
 
 ## Error Page
 
