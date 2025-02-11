@@ -28,6 +28,8 @@ auth-page-title =
     .title = Vui lòng quay lại ứng dụng { -vpn-product-name }
 auth-error-return-to-app = Vui lòng quay lại ứng dụng { -vpn-product-name } và thử lại.
 auth-error-unable-to-link = Oops! Có gì đó không ổn.
+auth-error-unsupported-version = Đã phát hiện phiên bản không được hỗ trợ.
+auth-error-update-required = Vui lòng cập nhật phiên bản mới nhất của { -vpn-product-name }.
 auth-success-return-to-app = Vui lòng quay lại ứng dụng { -vpn-product-name } để hoàn tất thiết lập.
 auth-success-linked-to-app = Đăng nhập thành công!
 
