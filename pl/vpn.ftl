@@ -28,6 +28,8 @@ auth-page-title =
     .title = Proszę powrócić do aplikacji { -vpn-product-name }
 auth-error-return-to-app = Proszę powrócić do aplikacji { -vpn-product-name } i spróbować ponownie.
 auth-error-unable-to-link = Ups! Coś poszło nie tak.
+auth-error-unsupported-version = Wykryto nieobsługiwaną wersję.
+auth-error-update-required = Proszę wykonać aktualizację do najnowszej wersji { -vpn-product-name }.
 auth-success-return-to-app = Proszę powrócić do aplikacji { -vpn-product-name } aby dokończyć konfigurację.
 auth-success-linked-to-app = Logowanie powiodło się!
 
@@ -38,3 +40,4 @@ vpn-error-page-title =
 error = Błąd
 page-not-found = Nie odnaleziono strony.
 something-went-wrong = Ups, coś poszło nie tak.
+download-vpn-title = Pobierz { -vpn-product-name }
