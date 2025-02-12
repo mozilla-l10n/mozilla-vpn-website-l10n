@@ -40,3 +40,4 @@ vpn-error-page-title =
 error = Gabim
 page-not-found = S’u gjet faqe.
 something-went-wrong = Oh, diç shkoi ters.
+download-vpn-title = Shkarkoni { -vpn-product-name }

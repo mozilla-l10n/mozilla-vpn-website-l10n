@@ -50,3 +50,4 @@ vpn-error-page-title =
 error = Chyba
 page-not-found = Stránka nenalezena.
 something-went-wrong = Jejda, něco je špatně.
+download-vpn-title = Stáhnout { -vpn-product-name(case: "acc") }

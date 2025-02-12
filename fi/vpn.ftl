@@ -40,3 +40,4 @@ vpn-error-page-title =
 error = Virhe
 page-not-found = Sivua ei löydy.
 something-went-wrong = Jokin meni pieleen.
+download-vpn-title = Lataa { -vpn-product-name }

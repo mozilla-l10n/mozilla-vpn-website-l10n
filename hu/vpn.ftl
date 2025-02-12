@@ -40,3 +40,4 @@ vpn-error-page-title =
 error = Hiba
 page-not-found = Az oldal nem található.
 something-went-wrong = Hoppá, hiba történt.
+download-vpn-title = { -vpn-product-name } letöltése
