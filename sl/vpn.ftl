@@ -28,6 +28,8 @@ auth-page-title =
     .title = Vrnite se v aplikacijo { -vpn-product-name }
 auth-error-return-to-app = Vrnite se v aplikacijo { -vpn-product-name } in poskusite znova.
 auth-error-unable-to-link = Opla! Prišlo je do napake.
+auth-error-unsupported-version = Zaznana je nepodprta različica.
+auth-error-update-required = Posodobite { -vpn-product-name } na najnovejšo različico.
 auth-success-return-to-app = Za dokončanje nastavitve se vrnite v aplikacijo { -vpn-product-name }.
 auth-success-linked-to-app = Prijava uspešna!
 
@@ -38,3 +40,4 @@ vpn-error-page-title =
 error = Napaka
 page-not-found = Strani ni mogoče najti.
 something-went-wrong = Opla, prišlo je do napake.
+download-vpn-title = Prenesi { -vpn-product-name }
