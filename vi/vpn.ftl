@@ -40,3 +40,4 @@ vpn-error-page-title =
 error = Lỗi
 page-not-found = Không tìm thấy trang.
 something-went-wrong = Oops! Có gì đó không ổn.
+download-vpn-title = Tải xuống { -vpn-product-name }
