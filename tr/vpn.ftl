@@ -28,6 +28,8 @@ auth-page-title =
     .title = Lütfen { -vpn-product-name } uygulamasına geri dönün
 auth-error-return-to-app = Lütfen { -vpn-product-name } uygulamasına geri dönüp yeniden deneyin.
 auth-error-unable-to-link = Ne yazık ki bir hata oluştu.
+auth-error-unsupported-version = Desteklenmeyen sürüm tespit edildi.
+auth-error-update-required = Lütfen { -vpn-product-name } uygulamasını son sürümüne güncelleyin.
 auth-success-return-to-app = Kurulumu tamamlamak için lütfen { -vpn-product-name } uygulamasına geri dönün.
 auth-success-linked-to-app = Başarıyla giriş yapıldı!
 
