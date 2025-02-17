@@ -40,3 +40,4 @@ vpn-error-page-title =
 error = Hata
 page-not-found = Sayfa bulunamadı.
 something-went-wrong = Ne yazık ki bir hata oluştu.
+download-vpn-title = { -vpn-product-name } uygulamasını indirin
