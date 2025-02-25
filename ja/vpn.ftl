@@ -28,6 +28,8 @@ auth-page-title =
     .title = { -vpn-product-name } アプリに戻ってください。
 auth-error-return-to-app = { -vpn-product-name } アプリに戻り、再度お試しください。
 auth-error-unable-to-link = 申し訳ありません。問題が発生しました。
+auth-error-unsupported-version = 未サポートのバージョンが検出されました。
+auth-error-update-required = { -vpn-product-name } を最新バージョンに更新してください。
 auth-success-return-to-app = { -vpn-product-name } アプリに戻ってセットアップを完了します。
 auth-success-linked-to-app = ログインに成功しました！
 
@@ -38,3 +40,4 @@ vpn-error-page-title =
 error = エラー
 page-not-found = ページが見つかりませんでした。
 something-went-wrong = 申し訳ありません。問題が発生しました。
+download-vpn-title = { -vpn-product-name } をダウンロード
