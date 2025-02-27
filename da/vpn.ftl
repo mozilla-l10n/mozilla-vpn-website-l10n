@@ -28,6 +28,8 @@ auth-page-title =
     .title = Vend tilbage til { -vpn-product-name }-appen
 auth-error-return-to-app = Vend tilbage til { -vpn-product-name }-appen og prøv igen.
 auth-error-unable-to-link = Hov, noget gik galt.
+auth-error-unsupported-version = Ikke-understøttet version blev fundet.
+auth-error-update-required = Opdater til den seneste version af { -vpn-product-name }.
 auth-success-return-to-app = Vend tilbage til { -vpn-product-name }-appen for at afslutte opsætningen.
 auth-success-linked-to-app = Du er logget ind!
 
@@ -38,3 +40,4 @@ vpn-error-page-title =
 error = Fejl
 page-not-found = Side ikke fundet.
 something-went-wrong = Hov, noget gik galt.
+download-vpn-title = Hent { -vpn-product-name }
