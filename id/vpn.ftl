@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+### Mozilla VPN website
+
+
 ## Mozilla VPN Brand
 ##
 ## Mozilla VPN must be treated as a brand.
@@ -17,9 +20,6 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
-
-### Mozilla VPN website
-
 -vpn-product-name = Mozilla VPN
 
 ## Client Auth Pages
@@ -28,6 +28,8 @@ auth-page-title =
     .title = Silakan kembali ke aplikasi { -vpn-product-name }
 auth-error-return-to-app = Silakan kembali ke aplikasi { -vpn-product-name } dan coba lagi.
 auth-error-unable-to-link = Ups! Terjadi kesalahan.
+auth-error-unsupported-version = Versi yang tidak didukung terdeteksi.
+auth-error-update-required = Mohon perbarui { -vpn-product-name } ke versi terbaru.
 auth-success-return-to-app = Harap kembali ke aplikasi { -vpn-product-name } untuk menyelesaikan persiapan.
 auth-success-linked-to-app = Berhasil masuk!
 
