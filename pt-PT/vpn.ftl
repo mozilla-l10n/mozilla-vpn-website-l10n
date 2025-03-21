@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+### Mozilla VPN website
+
+
 ## Mozilla VPN Brand
 ##
 ## Mozilla VPN must be treated as a brand.
@@ -17,9 +20,6 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
-
-### Mozilla VPN website
-
 -vpn-product-name = Mozilla VPN
 
 ## Client Auth Pages
@@ -28,6 +28,8 @@ auth-page-title =
     .title = Por favor, volte à aplicação { -vpn-product-name }
 auth-error-return-to-app = Por favor, volte à aplicação { -vpn-product-name } e tente novamente.
 auth-error-unable-to-link = Ups! Algo correu mal.
+auth-error-unsupported-version = Versão não suportada detetada.
+auth-error-update-required = Por favor, atualize para a versão mais recente da { -vpn-product-name }.
 auth-success-return-to-app = Por favor, volte à aplicação { -vpn-product-name } para concluir a configuração.
 auth-success-linked-to-app = Início de sessão bem-sucedido!
 
@@ -38,3 +40,4 @@ vpn-error-page-title =
 error = Erro
 page-not-found = Página não encontrada.
 something-went-wrong = Ups, algo correu mal.
+download-vpn-title = Transferir a { -vpn-product-name }
