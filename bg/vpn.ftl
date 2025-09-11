@@ -31,7 +31,7 @@ auth-error-unable-to-link = Ааах, нещо се обърка.
 auth-error-unsupported-version = Открита е неподдържана версия.
 auth-error-update-required = Моля, актуализирайте до последната версия на { -vpn-product-name }.
 auth-success-return-to-app = Върнете се към приложението { -vpn-product-name }, за да завършите настройката.
-auth-success-linked-to-app = Вписани сте!
+auth-success-linked-to-app = Успешно вписване!
 
 ## Error Page
 
