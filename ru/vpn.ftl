@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+### Mozilla VPN website
+
+
 ## Mozilla VPN Brand
 ##
 ## Mozilla VPN must be treated as a brand.
@@ -16,9 +19,6 @@
 ##
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
-
-### Mozilla VPN website
 
 -vpn-product-name = Mozilla VPN
 
@@ -40,4 +40,4 @@ vpn-error-page-title =
 error = Ошибка
 page-not-found = Страница не найдена.
 something-went-wrong = Ой, что-то пошло не так.
-download-vpn-title = Загрузить { -vpn-product-name }
+download-vpn-title = Скачать { -vpn-product-name }
